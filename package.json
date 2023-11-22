@@ -1,0 +1,25 @@
+{
+    "name": "congenial-palm-tree",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest" 
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/del-skillsunion/congenial-palm-tree.git"
+    },
+    "author": "del-skillsunion",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/del-skillsunion/congenial-palm-tree/issues"
+    },
+    "homepage": "https://github.com/del-skillsunion/congenial-palm-tree#readme",
+    "dependencies": {
+      "serverless": "^3.36.0"
+    },
+    "devDependencies": {
+      "serverless-offline": "^13.2.1"
+    }
+  }
